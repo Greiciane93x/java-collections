@@ -6,7 +6,7 @@ Roadmap
 01. Trabalhando com ArrayList [x]
 02. Listas de objetos [x]
 03. Relacionamentos com coleções [x]
-04. Mais práticas com relacionamentos
+04. Mais práticas com relacionamentos [x]
 05. O poder dos sets
 06. Aplicando o Set no modelo
 07. Equals e hashcode
