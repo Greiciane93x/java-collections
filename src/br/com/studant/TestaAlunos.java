@@ -27,6 +27,15 @@ public class TestaAlunos {
         });
 
 
-        
+        // Um conjunto não aceita elementos repetidos.
+        // Um Set garante que nenhum elemento se repita. Por isso,
+        // o método add(..) devolve um booleano que indica sucesso da
+        // inserção
+        // --------------------------
+        // Há métodos que fazem busca por um
+        // objeto, como contains(..) ou remove(..),
+        // que são muito mais rápidos se comparado com uma lista
+        // Um conjunto não garante a ordem de inserção
+
     }
 }
