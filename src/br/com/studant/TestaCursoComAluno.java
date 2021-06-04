@@ -1,5 +1,8 @@
 package br.com.studant;
 
+import java.util.Iterator;
+import java.util.Set;
+
 public class TestaCursoComAluno {
 
     public static void main(String[] args) {
@@ -21,6 +24,17 @@ public class TestaCursoComAluno {
                     System.out.println(a);
                 }
         );
+
+        // --------------- ITERATOR
+        System.out.println ("----------------- ITERATOR ----------------");
+        Set<Aluno> alunos = javaColecoes.getAlunos();
+        Iterator<Aluno> iterator = alunos.iterator();
+        while(iterator.hasNext()) {
+            Aluno proximo = iterator.next();
+            System.out.println(proximo);
+        }
+        System.out.println("-------------- FIM DO ITERATOR -------------");
+        
 
         System.out.println("O aluno "+ a1+ "está matriculado");
         System.out.println("O aluno" + a3+ "não está matriculado");
