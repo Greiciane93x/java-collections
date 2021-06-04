@@ -12,5 +12,5 @@ Roadmap
 07. Equals e hashcode [x]
 08. Outros sets e iterators [x]
 09. Qual Collection usar [x]
-10. Mapas
+10. Mapas [x]
 			
