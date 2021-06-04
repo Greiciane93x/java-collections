@@ -10,7 +10,7 @@ Roadmap
 05. O poder dos sets [x]
 06. Aplicando o Set no modelo [x]
 07. Equals e hashcode [x]
-08. Outros sets e iterators
+08. Outros sets e iterators [x]
 09. Qual Collection usar
 10. Mapas
 			

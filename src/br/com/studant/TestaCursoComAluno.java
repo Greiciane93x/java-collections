@@ -34,7 +34,7 @@ public class TestaCursoComAluno {
             System.out.println(proximo);
         }
         System.out.println("-------------- FIM DO ITERATOR -------------");
-        
+
 
         System.out.println("O aluno "+ a1+ "está matriculado");
         System.out.println("O aluno" + a3+ "não está matriculado");
