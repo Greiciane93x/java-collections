@@ -11,6 +11,6 @@ Roadmap
 06. Aplicando o Set no modelo [x]
 07. Equals e hashcode [x]
 08. Outros sets e iterators [x]
-09. Qual Collection usar
+09. Qual Collection usar [x]
 10. Mapas
 			
